@@ -1,0 +1,2 @@
+# kisiRehberiOtomasyonu
+AlgoritmaFinal
